@@ -1,7 +1,7 @@
 # Drupal Status Report Error Fixes
 Steps on how to fix Drupal status report errors.
 
-## SimplePie
+### SimplePie
 *Error:* `SimplePie library is required for Feeds SimplePie Parser. Download the compiled version of the library from SimplePie download page.`
 
 1. Direct download link: http://simplepie.org/downloads/simplepie_1.3.1.compiled.php
